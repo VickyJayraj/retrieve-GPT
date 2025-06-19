@@ -1,6 +1,6 @@
 
 
-# Data Retrieval from Database using gemini-pro(LLM)
+# Data Retrieval from Database using gemini-2.5-flash(LLM)
 
 This Generative AI model can convert the text written in natural Language to the SQL Query using the gemini-pro model and retrieves the data from the Database.
 
